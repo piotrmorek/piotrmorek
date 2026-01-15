@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💡 I am frontend developer from Poland 🇵🇱 I work mostly with Angular, Typescript, Node and web components with Lit.js
+- 💡 I am fullstack dev from Poland 🇵🇱 I work mostly with Python, LLMs, Typescript, Node, Angular and web components with Lit.js
 - 📫 How to reach me: checkout my linkedin profile
